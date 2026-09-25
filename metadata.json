@@ -1,0 +1,6 @@
+{
+  "name": "FoxPrice Marketplace",
+  "description": "FoxPrice - Online shopping destination with unbeatable deals, flash sales, fast delivery, authentic electronics, fashion, and smart AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
